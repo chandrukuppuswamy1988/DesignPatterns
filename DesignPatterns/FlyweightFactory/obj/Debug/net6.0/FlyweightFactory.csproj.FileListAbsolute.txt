@@ -1,0 +1,15 @@
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\bin\Debug\net6.0\FlyweightFactory.exe
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\bin\Debug\net6.0\FlyweightFactory.deps.json
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\bin\Debug\net6.0\FlyweightFactory.runtimeconfig.json
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\bin\Debug\net6.0\FlyweightFactory.dll
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\bin\Debug\net6.0\FlyweightFactory.pdb
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.csproj.AssemblyReference.cache
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.AssemblyInfoInputs.cache
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.AssemblyInfo.cs
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.csproj.CoreCompileInputs.cache
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.dll
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\refint\FlyweightFactory.dll
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.pdb
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\FlyweightFactory.genruntimeconfig.cache
+C:\Repository\DesignPatterns\DesignPatterns\FlyweightFactory\obj\Debug\net6.0\ref\FlyweightFactory.dll

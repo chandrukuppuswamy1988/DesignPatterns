@@ -1,0 +1,15 @@
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.csproj.AssemblyReference.cache
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfo.cs
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\bin\Debug\net6.0\FacadePattern.exe
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\bin\Debug\net6.0\FacadePattern.deps.json
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\bin\Debug\net6.0\FacadePattern.runtimeconfig.json
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\bin\Debug\net6.0\FacadePattern.dll
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\bin\Debug\net6.0\FacadePattern.pdb
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.dll
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\refint\FacadePattern.dll
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.pdb
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\FacadePattern.genruntimeconfig.cache
+C:\Repository\DesignPatterns\DesignPatterns\FaçadePattern\obj\Debug\net6.0\ref\FacadePattern.dll
