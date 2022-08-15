@@ -6,7 +6,7 @@ Director director = new Director();
 IBuilder b1 = new Builder1();
 IBuilder b2 = new Builder2();
 
-// Construct two products
+//Construct two products
 director.Construct(b1);
 Product p1 = b1.GetResult();
 p1.Display();

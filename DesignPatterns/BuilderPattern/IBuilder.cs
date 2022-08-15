@@ -10,7 +10,7 @@ namespace BuilderPattern
     {
         void BuildPartA();
         void BuildPartB();
-         Product GetResult();
+        Product GetResult();
      }
         
 }
