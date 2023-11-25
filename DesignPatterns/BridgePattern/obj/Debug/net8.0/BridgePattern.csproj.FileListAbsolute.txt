@@ -1,0 +1,15 @@
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net8.0\BridgePattern.exe
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net8.0\BridgePattern.deps.json
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net8.0\BridgePattern.runtimeconfig.json
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net8.0\BridgePattern.dll
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net8.0\BridgePattern.pdb
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfo.cs
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.sourcelink.json
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.dll
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\refint\BridgePattern.dll
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.pdb
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\BridgePattern.genruntimeconfig.cache
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net8.0\ref\BridgePattern.dll

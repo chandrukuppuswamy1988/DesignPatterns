@@ -1,6 +1,5 @@
 ﻿using StrategyPattern;
 
-
 namespace StatePattern
 {
     public class FastState : IState

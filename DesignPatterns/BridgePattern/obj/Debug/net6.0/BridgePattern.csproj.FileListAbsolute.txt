@@ -3,7 +3,6 @@ C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net6.0\Bridg
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.runtimeconfig.json
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.dll
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\bin\Debug\net6.0\BridgePattern.pdb
-C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.csproj.AssemblyReference.cache
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfoInputs.cache
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\refin
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.pdb
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.genruntimeconfig.cache
 C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\ref\BridgePattern.dll
+C:\Repository\DesignPatterns\DesignPatterns\BridgePattern\obj\Debug\net6.0\BridgePattern.sourcelink.json
