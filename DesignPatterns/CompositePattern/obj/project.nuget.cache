@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0+N87AZnHAtlJuNOKN3v/tlztokDw0IF6ihHnXYBLT/zNbwvqjpcnM7DyVxxBaYXoZC4UHEXSXTYuMMqTJcpKQ==",
+  "dgSpecHash": "WtzPmMVKfO89nQTOz2xXJeewbjCvXsit82iJX+spb9AhbrwnnuMAoqm/dhSmTOLcMjAG4oCQVGfRyWGpf7P8uA==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\CompositePattern\\CompositePattern.csproj",
+  "projectFilePath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\CompositePattern\\CompositePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

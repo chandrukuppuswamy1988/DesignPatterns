@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E4Hm8Y99+ymJNeb1Ded+ErDOqkNRIwksfSL5dM13QbxMrO98fKTTTdpC+HpqLjSgJLs+RSLEOvt0ywvhn0OXrA==",
+  "dgSpecHash": "MinUMmn6octzZzZt+Zbybv4y6Kj0/bYqhf+uL8GIlt/FamehZl3EOVJ3jbf9q34xg/H/+shSx1876yVTIuK4Nw==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
+  "projectFilePath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\AbstractFactoryPattern\\AbstractFactoryPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\DesignPatterns\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
+      "projectUniqueName": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
       "projectName": "AdapterPattern",
-      "projectPath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
+      "projectPath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\AdapterPattern\\AdapterPattern.csproj",
       "packagesPath": "C:\\Users\\chand\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\AdapterPattern\\obj\\",
+      "outputPath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\AdapterPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

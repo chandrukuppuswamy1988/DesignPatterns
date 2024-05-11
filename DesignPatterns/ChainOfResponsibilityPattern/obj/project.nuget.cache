@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9S+dpx7IeU9xy6EGH2WCUJUmE9jq4ywVT0qdQH4SyjMqrd/4RT83rUe4in6oNC0oMlxHIpHExUpwwmFit59QNQ==",
+  "dgSpecHash": "O73mPy+AaFjL73KfuL8Ewc/hhKO0IOKKqisF4+DE+v1zdEjZRinlMikfqQNBgOFErTy79cyum/fv/m7O/+3MTw==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj",
+  "projectFilePath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\ChainOfResponsibilityPattern\\ChainOfResponsibilityPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

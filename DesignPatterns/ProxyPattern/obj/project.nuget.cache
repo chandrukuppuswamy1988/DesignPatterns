@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VJbQjtU93KyqHwryfhfYJ8G/ndDjtTn0jNKxnh9vo7NmbjBE5kVRXccWPxEFSQsJuHcVdYf3aPiTRiA04II0KA==",
+  "dgSpecHash": "0ykhjOUUbA/f/GviiAzH+vkiQAJKd47ortQOHhq65sowebRR3pQEguM9RrpzwaBpgRiZvSPn4kSouvr8m+LNZg==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\ProxyPattern\\ProxyPattern.csproj",
+  "projectFilePath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\ProxyPattern\\ProxyPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

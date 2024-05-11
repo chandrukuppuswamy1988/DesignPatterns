@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repository\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj": {}
+    "D:\\Repositories\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj": {}
   },
   "projects": {
-    "C:\\Repository\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj": {
+    "D:\\Repositories\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
+        "projectUniqueName": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
         "projectName": "SingletonPattern",
-        "projectPath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
+        "projectPath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\SingletonPattern\\SingletonPattern.csproj",
         "packagesPath": "C:\\Users\\chand\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\DesignPatterns\\DesignPatterns\\SingletonPattern\\obj\\",
+        "outputPath": "D:\\Repositories\\DesignPatterns\\DesignPatterns\\SingletonPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

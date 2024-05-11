@@ -1,0 +1,15 @@
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.exe
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.deps.json
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.runtimeconfig.json
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.dll
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.pdb
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfoInputs.cache
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfo.cs
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.sourcelink.json
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.dll
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\refint\DecoratorPattern.dll
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
+D:\Repositories\DesignPatterns\DesignPatterns\DesignPatternRevamped\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll
