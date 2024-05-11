@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AdapterPattern
+{
+    public interface ITarget
+    {
+        // Rough estimate required
+        string Request(int i);
+
+    }
+}
