@@ -70,3 +70,23 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/DesignPatterns/DesignPatternRevamped/AbstractFactoryPattern/obj
+/DesignPatterns/DesignPatternRevamped/AdapterPattern/bin/Debug/net8.0
+/DesignPatterns/DesignPatternRevamped/AdapterPattern/obj
+/DesignPatterns/DesignPatternRevamped/BridgePattern/obj
+/DesignPatterns/DesignPatternRevamped/BuilderPattern/obj
+/DesignPatterns/DesignPatternRevamped/ChainOfResponsibilityPattern/obj
+/DesignPatterns/DesignPatternRevamped/CommandPattern/obj
+/DesignPatterns/DesignPatternRevamped/CompositePattern/obj
+/DesignPatterns/DesignPatternRevamped/DecoratorPattern/bin/Debug/net8.0
+/DesignPatterns/DesignPatternRevamped/DecoratorPattern/obj
+/DesignPatterns/DesignPatternRevamped/DesignPatternRevamped/obj
+/DesignPatterns/DesignPatternRevamped/FactoryPattern/obj
+/DesignPatterns/DesignPatternRevamped/FaçadePattern/obj
+/DesignPatterns/DesignPatternRevamped/FlyweightFactory/obj
+/DesignPatterns/DesignPatternRevamped/PrototypePattern/obj
+/DesignPatterns/DesignPatternRevamped/ProxyPattern/obj
+/DesignPatterns/DesignPatternRevamped/SingletonPattern/obj
+/DesignPatterns/DesignPatternRevamped/StatePattern/obj
+/DesignPatterns/DesignPatternRevamped/StrategyPattern/obj
+/DesignPatterns/DesignPatternRevamped/TemplateMethodPattern/obj
